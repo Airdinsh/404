@@ -123,7 +123,7 @@ font-family: 'Maven Pro', sans-serif; */
 section {
     background-color: rgb(0, 0, 0);
     width: 100%;
-    height: 130vw;
+    height: 120vw;
     margin-left: 0px;
 }
 
@@ -157,7 +157,7 @@ h1 {
     width: 20%;
 }
 
-#bild1 {
+/* .bild1 {
 margin-top: 100vw;
     background-image: url(../img/christopher-campbell-40367-unsplash.jpg);
     position: absolute;
@@ -169,3 +169,30 @@ margin-top: 100vw;
     left: 40%;
     right: 60%;
 }
+
+.bild1 h1 {
+    font-family: "Maven Pro", sans-serif;
+  font-weight: 700;
+  font-size: 3vh;
+}
+
+.bild2 {
+        margin-top: 100vw;
+        background-image: url(../img/db_capa_pmu-grad.jpg);
+        position: absolute;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 260px;
+        width: 400px;
+        margin-bottom: 30px;
+        left: 40%;
+        right: 60%;
+        margin-bottom: 300px;
+    }
+    
+.bild2 h1 {
+        font-family: "Maven Pro", sans-serif;
+      font-weight: 700;
+      font-size: 3vh;
+      color: black;
+    } */
